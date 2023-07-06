@@ -1,6 +1,6 @@
 package Lesson_2.Example_003;
 
-public class Task_2 {
+public class Task_3 {
     public static void main(String[] args) {
         String json = """
                 [{"фамилия":"Иванов","оценка":"5","предмет":"Математика"},
